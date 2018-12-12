@@ -1,0 +1,15 @@
+﻿  ATEST.cpp
+C:\OpenCV3.1\include\opencv2/core/mat.hpp(1964): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\OpenCV3.1\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+ATEST.cpp(46): error C2679: binary '=': no operator found which takes a right-hand operand of type 'IplImage *' (or there is no acceptable conversion)
+  C:\OpenCV3.1\include\opencv2/core/mat.inl.hpp(1166): note: could be 'cv::Mat &cv::Mat::operator =(cv::Mat &&)'
+  C:\OpenCV3.1\include\opencv2/core/mat.hpp(1113): note: or       'cv::Mat &cv::Mat::operator =(const cv::Scalar &)'
+  C:\OpenCV3.1\include\opencv2/core/mat.inl.hpp(3047): note: or       'cv::Mat &cv::Mat::operator =(const cv::MatExpr &)'
+  C:\OpenCV3.1\include\opencv2/core/mat.inl.hpp(575): note: or       'cv::Mat &cv::Mat::operator =(const cv::Mat &)'
+  ATEST.cpp(46): note: while trying to match the argument list '(cv::Mat, IplImage *)'
+ATEST.cpp(97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+ATEST.cpp(98): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+ATEST.cpp(104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+ATEST.cpp(108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
