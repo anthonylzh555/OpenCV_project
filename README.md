@@ -1,1 +1,2 @@
-# OpenCV_project
+# Image_processing by C++
+Several basic function of OpenCV 
