@@ -1,7 +1,0 @@
-﻿  stdafx.cpp
-  LoadImg.cpp
-c:\opencv3.1\include\opencv2\core\mat.hpp(1964): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
-c:\opencv3.1\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
-c:\opencv3.1\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
-c:\opencv3.1\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
-  LoadImg.vcxproj -> c:\users\06006674\Desktop\C++project\VS2017OpenCV31\x64\Debug\LoadImg.exe

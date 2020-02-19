@@ -1,0 +1,19 @@
+﻿  MinAreaRectDemo.cpp
+C:\OpenCV3.1\include\opencv2/core/mat.hpp(1964): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\OpenCV3.1\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+MinAreaRectDemo.cpp(61): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MinAreaRectDemo.cpp(62): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MinAreaRectDemo.cpp(63): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MinAreaRectDemo.cpp(64): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MinAreaRectDemo.cpp(65): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MinAreaRectDemo.cpp(66): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MinAreaRectDemo.cpp(90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+MinAreaRectDemo.cpp(111): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  33 of 250 functions (13.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MinAreaRectDemo.vcxproj -> c:\users\06006674\Desktop\C++project\VS2017OpenCV31\x64\Release\MinAreaRectDemo.exe

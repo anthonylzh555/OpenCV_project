@@ -1,0 +1,15 @@
+﻿  KNNDemo.cpp
+C:\OpenCV3.1\include\opencv2/core/mat.hpp(1964): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\OpenCV3.1\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+KNNDemo.cpp(37): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+KNNDemo.cpp(53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+KNNDemo.cpp(57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+KNNDemo.cpp(89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  2 of 121 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  KNNDemo.vcxproj -> c:\users\06006674\Desktop\C++project\VS2017OpenCV31\x64\Release\KNNDemo.exe
